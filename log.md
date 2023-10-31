@@ -14,3 +14,16 @@
     - added ARRI locating holes to the 1/4" mounting point
     - added an alternate base plate with modified 1/4" mounting point location for better center of balance
     - reduced total count of required inserts and screws 
+    - reduced diameter of the 1/4" insert hole to better fit the inserts I was able to source
+
+
+## V3/Future potential changes  
+
+- Reduce thickness of trrs mount to for better cable compatabilty 
+- fully encluse the mcu 
+- move mcu to other side of board
+    - trrs should remain on current side, wiring considerations required 
+- improve wiring with mating machine pins on top and bottom half
+- trackball/trackpoint module
+- screen module 
+- WiFi based wireless impl 
