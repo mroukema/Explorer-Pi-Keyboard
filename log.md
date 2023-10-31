@@ -26,4 +26,5 @@
 - improve wiring with mating machine pins on top and bottom half
 - trackball/trackpoint module
 - screen module 
-- WiFi based wireless impl 
+- WiFi based wireless impl
+- Reduce MCU assembly part count and improve general design
