@@ -1,6 +1,6 @@
 # Explorer Pi Keyboard V2
 
-<img src="images/1.png" style="zoom: 50%;" >
+<img src="images/1.jpg" style="zoom: 50%;" >
 
 ## Introduction 
 
