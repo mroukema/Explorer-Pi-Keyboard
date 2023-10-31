@@ -17,4 +17,4 @@ It's been fitted to my personal ergomomic preferences and some of the originals 
 
 ## Firmware 
 
-[Firmware](https://github.com/mroukema/qmk_firmware/tree/explorer_pi_v2/keyboards/explorer_pi/3x6_6)
+[QMK Firmware](https://github.com/mroukema/qmk_firmware/tree/explorer_pi_v2/keyboards/explorer_pi/3x6_6) (forked)
