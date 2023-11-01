@@ -17,7 +17,7 @@ Connects to Thumb Attachement via one M2, one M3 screws/threaded insert, and to 
 ## Thumb Top
 Connects to Support strut via M3 screws/threaded insert. Switch plate allows for either MX or Choc switches.
 
-Of possible interest might be my [Enigam Dual Hot Swap](https://github.com/mroukema/enigma-dual-hs) single key pcb.
+Of possible interest might be my [Enigma Dual Hot Swap](https://github.com/mroukema/enigma-dual-hs) single key pcb.
 
 ## MX Spacer
 Not required but useful for adapting the swich plate height and to provied a surface to glue a pcb to if you wish to be able to hot swap switches with zero disassembly. 
