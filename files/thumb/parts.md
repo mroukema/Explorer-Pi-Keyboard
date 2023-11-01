@@ -10,11 +10,11 @@ Variant of the support sturt compatible with angles between 15-75 degrees.
 
 *note that this still isn't long enough to support the 90 degreee position; it simply seemed to extreme an angle and the part already allows for more rotation than I'll ever use.
 
-## Thumb Attachement 
-Part that joins the thumb cluster and main keyboard body together. Allows for angle of attachement to be set between 0-90 degrees in 15 degree increments.
+## Thumb Attachment 
+Part that joins the thumb cluster and main keyboard body together. Allows for angle of attachment to be set between 0-90 degrees in 15 degree increments.
 
 ## Thumb Bottom 
-Connects to Thumb Attachement via one M2, one M3 screws/threaded insert, and to top via six M2 screws/inserts. Went kinda overboard with threaded attachement points; not all these are sticty needed to be secure, could easily get away with using just three or two. 
+Connects to Thumb Attachment via one M2, one M3 screws/threaded insert, and to top via six M2 screws/inserts. Went kinda overboard with threaded attachment points; not all these are sticty needed to be secure, could easily get away with using just three or two. 
 
 ## Thumb Top
 Connects to Support strut via M3 screws/threaded insert. Switch plate allows for either MX or Choc switches.
