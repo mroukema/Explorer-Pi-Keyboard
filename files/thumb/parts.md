@@ -4,8 +4,10 @@ The body of each thumb cluster is made up of a top and bottom half. In addition 
 ## Support strut short
 Variant of the support sturt compatible with angles between 15-45 degrees.
 
+*note that neither support sturt works with the 0 degree position. As designed the screw position required at 0 degrees overlaps with area where the case meets the top of the strut. 
 ## Support strut long
 Variant of the support sturt compatible with angles between 15-75 degrees.
+
 *note that this still isn't long enough to support the 90 degreee position; it simply seemed to extreme an angle and the part already allows for more rotation than I'll ever use.
 
 ## Thumb Attachement 
