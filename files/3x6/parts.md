@@ -1,6 +1,8 @@
 # Parts
 The main body of the keyboard is made up of a top and bottom half for each keyboard half. There are two variations on the bottom half explained below; choose one.
 
+<img src="../../images/guide/parts.jpg" style="zoom: 50%;" >
+
 ## Case Bottom Default
 This default version of the bottom half of the case has the 1/4" mounting point in the same position as the V1 model; it's centered on the middle finger column. 
 
