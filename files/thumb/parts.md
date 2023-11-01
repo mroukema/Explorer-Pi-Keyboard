@@ -1,6 +1,8 @@
 # Parts
 The body of each thumb cluster is made up of a top and bottom half. In addition there is an attachment part to join the thumb cluster to the main keyboard body at an adjustable angel. An optional (but recommended) support strut part is offered in two variation, short and long to further secure the thumb cluster. Finally the mx-spacer is not stictly necessary to use but provides some additional securement for mx keys and a surface to attach pcb to. 
 
+<img src="../../images/guide/parts.jpg" style="zoom: 50%;" >
+
 ## Support strut short
 Variant of the support sturt compatible with angles between 15-45 degrees.
 
