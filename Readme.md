@@ -15,6 +15,9 @@ It's been fitted to my personal ergomomic preferences and some of the originals 
 - Entire thumb cluster is modular (wiring included) and could be easily swapped for a different design
 - 1/4" mounting with ARRI locating holes
 
-## Firmware 
+## Links 
 
-[QMK Firmware](https://github.com/mroukema/qmk_firmware/tree/explorer_pi_v2/keyboards/explorer_pi/3x6_6) (forked)
+- Explorer PI [QMK Firmware](https://github.com/mroukema/qmk_firmware/tree/explorer_pi_v2/keyboards/explorer_pi/3x6_6) (forked)
+- My [Enigma Dual Hot Swap](https://github.com/mroukema/enigma-dual-hs) for thumb cluster keys 
+- [Flexible pcb columns](https://skree.us/products/dactyl-compatible-flexible-row-pcbs-populated) by Skree to simplify wiring
+- 
