@@ -1,0 +1,4 @@
+[submodule "firmware"]
+	path = firmware
+	url = https://github.com/mroukema/qmk_firmware
+	branch = explorer_pi_v2
